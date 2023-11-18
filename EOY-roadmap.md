@@ -27,3 +27,11 @@ Deadline: 16/12/2023
 5. Create roster for market day
 
 Deadline: 14/2/2024
+
+## Merch
+1. Find potential suppliers
+2. Find potential sponsors
+3. Design merch
+4. Order and distribute merch
+
+Deadline: 14/2/2024
